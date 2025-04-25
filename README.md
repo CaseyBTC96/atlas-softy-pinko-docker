@@ -1,4 +1,4 @@
-# Holberton School Softy Pinko Docker Project
+# Atlas School Softy Pinko Docker Project
 
 ## Project Overview
 
